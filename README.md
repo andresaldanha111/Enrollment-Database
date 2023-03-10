@@ -1,1 +1,2 @@
 # Enrollment-Database
+This full stack project is an application where I used Java and SQL. Users can enter, edit and view information regarding student, instructor and course enrollment data. Intially, the data was stored locally in a binary file, and there was no GUI. After I learned how to use SQL queries, I hosted data on a Clever Cloud instance using MySQL Application with Java Database Connectivity API. The other improvement I made designing a GUI with 13 Menu Items and 19 Panels using Java Swing Library.
